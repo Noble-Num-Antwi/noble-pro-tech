@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.home1{
+    background-image: url(image/image1\ \(2\).jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 380px;
+    height: 100vh;
+}
+#sac1{
+    background-color: black;
+    color: white;
+    padding: 7px;
+    margin-left: 550px;
+    padding-top: 20px;
+    margin-top: 180px;
+    background-attachment: scroll;
+    font-size: 20px
+    
+}
+.home2{
+text-decoration: none;
+text-align: center;
+font-size: 20px;
+background-color:whitesmoke;
+}
+.home3{
+    background-image: url(image/image2.jpg);
+    height: 60vh;
+    text-align: center;
+    background-attachment: fixed;
+}
+.home4{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+.home5{
+   background-image: url(image/nob.jpeg);
+   text-align: center;
+   height: 80vh;
+   background-attachment: fixed;
+}
+.home6{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
+.home7{
+    background-image: url(image/image1\ \(2\).jpg);
+    text-align: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+#sac2{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    width: 20%;
+    padding-top: 30px;
+    margin-top: 200px;
+    font-size: 19px;
+    background-attachment: scroll;
+}
